@@ -6,14 +6,14 @@
 
 <p align="center">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sfmayke/expenses-chart-component-main">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sfmayke/advice-generator">
   
   <a href="https://github.com/sfmayke/expenses-chart-component-main/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sfmayke/expenses-chart-component-main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sfmayke/advice-generator">
   </a>
 
   <a href="https://github.com/sfmayke/expenses-chart-component-main/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/sfmayke/expenses-chart-component-main">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/sfmayke/advice-generator">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -29,7 +29,7 @@
 </p>
  
 ## :page_with_curl: About
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt).
+This is a solution to the [Advice generator challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-WUVv-FHmt9).
 
 
 ### The challenge
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Here](https://expenses-chart-component-main-sfmayke.vercel.app/)
+- Live Site URL: [Here](https://advice-generator-sfmayke.vercel.app/)
 
 ## :wrench: Built With
 
